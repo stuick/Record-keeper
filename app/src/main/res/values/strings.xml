@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Record keeper</string>
+    <string name="running">Running</string>
+    <string name="workout">Workout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="running_image_description">Running Image</string>
+    <string name="two_km_heading">2Km</string>
+    <string name="five_km_heading">5Km</string>
+    <string name="height_km_heading">8Km</string>
+    <string name="ten_km_heading">10Km</string>
+    <string name="workout_image_description">Workout Image</string>
+    <string name="text_view_text_sets">sets</string>
+    <string name="text_view_text_repetitions">reps/</string>
+    <string name="text_shoulder">Shoulder</string>
+    <string name="text_triceps">Triceps</string>
+    <string name="text_biceps">Biceps</string>
+    <string name="reset_running_record">Reset Running Record</string>
+    <string name="reset_workout_record">Reset Workout Record</string>
+    <string name="reset_all_record">Reset All Record</string>
+    <string name="record_field_hint">Record</string>
+    <string name="date_field_hint">Date</string>
+    <string name="save_button_text">SAVE</string>
+    <string name="clear_record_button_text">CLEAR RECORD</string>
+</resources>
